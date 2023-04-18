@@ -9,5 +9,5 @@ rules:
   - DOMAIN-SUFFIX,clarivate.com,DIRECT
   - DOMAIN-SUFFIX,bilibili.com,DIRECT
   - DOMAIN-SUFFIX,baidu.com,DIRECT
-  - DOMAIN-KEYWORD,openai,OPENAI
+  - DOMAIN-KEYWORD,openai,OpenAI
   - DOMAIN-KEYWORD,bing,国外网站
