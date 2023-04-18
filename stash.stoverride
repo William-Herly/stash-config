@@ -1,0 +1,13 @@
+name: 我的规则覆盖
+desc: 自动覆盖规则部分网站定向访问
+
+
+rules:
+  - DOMAIN-SUFFIX,webofscience.com,DIRECT
+  - DOMAIN-SUFFIX,webofknowledge.com,DIRECT
+  - DOMAIN-SUFFIX,ieee.org,DIRECT
+  - DOMAIN-SUFFIX,clarivate.com,DIRECT
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-KEYWORD,openai,OPENAI
+  - DOMAIN-KEYWORD,bing,国外网站
