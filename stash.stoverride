@@ -1,5 +1,18 @@
-name: 我的规则覆盖
+name: 我的规则
 desc: 自动覆盖规则部分网站定向访问
+
+tiles:
+  - name: OpenAI-Checker
+    interval: 7200
+    title: 'OpenAI Checker'
+    content: '请等待......'
+    icon：https://gitee.com/william-herly/openai_checker/raw/master/logo.png
+    backgroundColor:'#4AA081'
+
+script-providers:
+  OpenAI-Checker:
+    url: https://gitee.com/william-herly/openai_checker/raw/master/openai_check.js
+    interval: 86400
 
 rules:
   - DOMAIN-SUFFIX,webofscience.com,DIRECT
