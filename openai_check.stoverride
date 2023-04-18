@@ -11,5 +11,5 @@ tiles:
 
 script-providers:
   OpenAI-Checker-Tile:
-    url: https://gitee.com/william-herly/openai_checker/raw/master/openai_check.js
+    url: https://gitee.com/william-herly/openai_checker/raw/master/openai_checker.js
     interval: 86400
