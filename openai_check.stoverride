@@ -5,7 +5,7 @@ tiles:
   - name: OpenAI-Checker-Tile
     interval: 7200
     title: '𝗢𝗽𝗲𝗻𝗔𝗜 𝗖𝗵𝗲𝗰𝗸𝗲𝗿'
-    content: '请稍后...'
+    content: 'Loading...'
     icon: 'https://gitee.com/william-herly/openai_checker/raw/master/logo.png'
     backgroundColor: '#4AA081'
 
