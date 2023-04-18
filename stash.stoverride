@@ -6,7 +6,7 @@ tiles:
     interval: 7200
     title: 'OpenAI Checker'
     content: '请等待......'
-    icon：https://gitee.com/william-herly/openai_checker/raw/master/logo.png
+    icon: https://gitee.com/william-herly/openai_checker/raw/master/logo.png
     backgroundColor:'#4AA081'
 
 script-providers:
